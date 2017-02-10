@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "this is node demo",
+  "main": "old_server.js",
+  "dependencies": {
+    "datasift": "^0.3.1",
+    "express": "^4.14.1",
+    "file": "^0.2.2",
+    "mysql": "^2.13.0",
+    "nodemailer": "^3.0.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Chirag Boghani",
+  "license": "MIT"
+}
